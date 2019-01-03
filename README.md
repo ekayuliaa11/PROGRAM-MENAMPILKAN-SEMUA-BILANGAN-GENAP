@@ -15,3 +15,21 @@
         while(i<=10);
        return 0;
         }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# hasil program 
+![img](https://github.com/ekayuliaa11/PROGRAM-MENAMPILKAN-SEMUA-BILANGAN-GENAP/blob/master/BILANGAN%20genap.png?raw=true)
